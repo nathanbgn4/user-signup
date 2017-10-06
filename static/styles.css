@@ -1,0 +1,21 @@
+.error{
+    color: red
+}
+
+.field_modifier{
+    background-color: gray;
+    margin: 0 auto;
+    width: 500px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.text_modifier{
+    font-size: 15px;
+}
+
+.button_modifier{
+    width: 6em;
+    height: 2em;
+    font-size: 15px;
+}
